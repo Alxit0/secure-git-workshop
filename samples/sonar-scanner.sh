@@ -10,7 +10,7 @@ export SONAR_SCANNER_OPTS="-server"
 if [ ! -z $SONAR_TOKEN]; then exit 1; fi
 
 sonar-scanner \
-  -Dsonar.organization=xyz-workshops \
+  -Dsonar.organization=alxito-corps \
   -Dsonar.projectKey=git-secure-workshop \
   -Dsonar.sources=. \
   -Dsonar.host.url=https://sonarcloud.io

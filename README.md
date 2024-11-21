@@ -14,7 +14,7 @@ https://sonarcloud.io/create-organization
 
 ```
 - create an organization manualy
-- give it a name xyz-workshops
+- give it a name alxito-corps
 - choose free plan and click create
 ```
 
